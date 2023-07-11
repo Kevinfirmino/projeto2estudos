@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+}
+.pege {
+    width: 1000px;
+    margin: 65px auto 0;
+    
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 55px;
+}
+
+ul {
+    display: flex;
+    gap: 46px;
+    list-style: nome;
+    margin: 0;
+    padding: 0;
+}
